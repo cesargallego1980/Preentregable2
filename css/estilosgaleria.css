@@ -60,7 +60,7 @@
 
 .foto-4{
     grid-area: foto4;
-    background-image: url(../images/FOTO4.JPG);
+    background-image: url(../images/FOTO4.jpg);
     background-size: cover;
     background-position: center;
 }

@@ -11,7 +11,8 @@
     flex-wrap: wrap;
    /* align-items: center;*/
     justify-content: center;
-    min-height: 100vh;
+    /*min-height: 100vh;*/
+    min-height: 400px;
     background: rgb(9, 74, 136);
 }
 .card{
