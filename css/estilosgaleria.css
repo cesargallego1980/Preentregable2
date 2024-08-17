@@ -39,63 +39,63 @@
 
 .foto-1{
     grid-area: foto1;
-    background-image: url(/images/FOTO1.jpg);
+    background-image: url(../images/FOTO1.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .foto-2{
     grid-area: foto2;
-    background-image: url(/images/FOTO2.JPG);
+    background-image: url(../images/FOTO2.JPG);
     background-size: cover;
     background-position: center;
 }
 
 .foto-3{
     grid-area: foto3;
-    background-image: url(/images/FOTO3.JPG);
+    background-image: url(../images/FOTO3.JPG);
     background-size: cover;
     background-position: center;
 }
 
 .foto-4{
     grid-area: foto4;
-    background-image: url(/images/FOTO4.JPG);
+    background-image: url(../images/FOTO4.JPG);
     background-size: cover;
     background-position: center;
 }
 
 .foto-5{
     grid-area: foto5;
-    background-image: url(/images/FOTO6.jpg);
+    background-image: url(../images/FOTO6.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .foto-6{
     grid-area: foto6;
-    background-image: url(/images/FOTO14.jpg);
+    background-image: url(../images/FOTO14.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .foto-7{
     grid-area: foto7;
-    background-image: url(/images/FOTO9.JPG);
+    background-image: url(../images/FOTO9.JPG);
     background-size: cover;
     background-position: center;
 }
 
 .foto-8{
     grid-area: foto8;
-    background-image: url(/images/FOTO16.jpg);
+    background-image: url(../images/FOTO16.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .foto-9{
     grid-area: foto9;
-    background-image: url(/images/FOTO11.JPG);
+    background-image: url(../images/FOTO11.JPG);
     background-size: cover;
     background-position: center;
 }
