@@ -1,0 +1,30 @@
+:root {
+    --color-negro : rgba(0, 0, 0, 0.75);
+    --color-negro-opacity4 : rgba(0, 0, 0, 0.4);
+}
+
+@mixin fondo($url, $repar, $w, $h){
+    height: 400px;
+    width: 400px;
+    border: 1px solid red;
+
+  background: {
+    image : $url;
+    repeat:  $repar;
+    position: $w $h;
+    size : cover
+  }
+}
+
+@mixin hipervinculod( $color, $tamanotexto : 0){
+    @if($tamanotexto == 0){
+        font-size: 40px;
+    }@else{
+        font-size:  $tamanotexto;
+    }
+   
+    color: $color
+
+    
+
+}

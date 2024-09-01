@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "css": "node-sass css/estilos.scss -o css",
+    "css:watch": "npm run css && node-sass css/estilos.scss -wo css",
+     "cesar": "npm run css && node-sass css/estilos.scss -wo css"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.77.8"
+  }
+}
