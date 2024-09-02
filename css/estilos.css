@@ -753,6 +753,8 @@ footer {
     margin-top: 10px;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(32, 2fr); }
+  form {
+    width: 300px !important; }
   .parte-1 {
     grid-row: 3 / 6;
     grid-column: 1; }
